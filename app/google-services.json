@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "169776501426",
+    "firebase_url": "https://my-slam-book-c4ae6.firebaseio.com",
+    "project_id": "my-slam-book-c4ae6",
+    "storage_bucket": "my-slam-book-c4ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169776501426:android:cb7bcd1219c42388",
+        "android_client_info": {
+          "package_name": "com.example.suhanshu.slambook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169776501426-dnflpd1ljaf5joo3rhrb3q19m7djmlj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suhanshu.slambook",
+            "certificate_hash": "1e0b23a2f8ad5328c91eae6177c78607099cb071"
+          }
+        },
+        {
+          "client_id": "169776501426-7guetu777cl7ceaooi4ev9vfled5ced9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCTiIvtjMfiynqZjfGSXO5s_OMGE-KpCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169776501426-7guetu777cl7ceaooi4ev9vfled5ced9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SlamBook</string>
+    <string name="your_name">Your name</string>
+    <string name="what_nickname_suits_my_personality">What Nickname Suits My Personality?</string>
+    <string name="my_name_in_your_phone">My name in your phone</string>
+    <string name="words_about_me">Words about me</string>
+    <string name="if_you_got_a_chance_to_ask_me_something_about_my_personal_life">If you got a chance to ask me something about my personal life</string>
+    <string name="what_s_the_bravest_thing_you_ve_ever_done_in_the_last_year">What’s the bravest thing you’ve ever done in the last year?</string>
+    <string name="describe_in_one_word_life_is">Describe in one word, LIFE is</string>
+    <string name="describe_in_one_word_love_is">Describe in one word, love is</string>
+    <string name="how_do_you_feel_when_you_talk_to_me">How do you Feel When you talk to me</string>
+    <string name="your_first_reaction_on_my_first_look">Your First Reaction on My First Look</string>
+    <string name="relation_between_you_and_me">Relation between you and me</string>
+    <string name="if_you_had_three_wishes_for_me_what_would_it_be">If you had three wishes for me, what would it be?</string>
+    <string name="any_name_you_would_like_to_call_me">Any name you would like to call me</string>
+    <string name="one_thing_that_u_love_the_most_about_me">One thing that u Love the Most about Me</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="exit">Do you really want to exit?</string>
+
+    <!-- Strings related to login -->
+    <string name="sign_in">Sign In</string>
+    <string name="user_name">User Name</string>
+    <string name="repass">Re-Password</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="view_slam">View Slam</string>
+    <string name="add_slam">Add Slam</string>
+    <string name="no_recorded_slam_try_to_add_new_one">NO RECORDED SLAM. TRY TO ADD NEW ONE</string>
+    <string name="search">Search....</string>
+</resources>

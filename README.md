@@ -1,0 +1,2 @@
+# SlamFirebase
+ SLAMBOOK_AS_FIREBASE
